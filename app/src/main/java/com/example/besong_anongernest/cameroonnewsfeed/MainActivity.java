@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity implements LoaderCallbacks<L
     private static final String LOG_TAG = MainActivity.class.getSimpleName();
 
     // URL to get data of news feed
-    public static final String FEED_CONTENT_URL = "http://content.guardianapis.com/search?q=cameroon&api-key=" + R.string.your_api_key;
+    public static final String FEED_CONTENT_URL = "http://content.guardianapis.com/search?q=cameroon&api-key=paste your api_key here";
 
     /**
      * Constant value for the feed loader ID. We can choose any integer.
