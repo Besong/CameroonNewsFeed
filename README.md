@@ -8,4 +8,6 @@ Features implement in app includes:
  - JSON parsing of data from guardina web service.
  - Populating feed data items in ListView.
  
+ To get started, check out [this](http://open-platform.theguardian.com/access/) to register for a developer key.
+ 
  
