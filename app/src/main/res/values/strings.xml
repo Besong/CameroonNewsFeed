@@ -2,6 +2,6 @@
     <string name="app_name">Cameroon News Feed</string>
     <string name="no_internet_connection">No Internet Connection</string>
     <string name="no_news_feed_found">No Cameroon news Feed Found</string>
-    <string name="your_api_key">Paste your api_key_here</string>
+
 
 </resources>
