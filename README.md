@@ -4,8 +4,8 @@ Android network application which performs the following:
 - Displays whole content of news on browser when feed is clicked.
 
 Features implemented in app includes:
- - AsyncTaskLoader to load news data.
- - JSON parsing of data from guardina web service.
+ - AsyncTaskLoader to load news data asynchronously.
+ - JSON parsing of data from guardian web service.
  - Populating feed data items in ListView.
  
  To get started, check out [this](http://open-platform.theguardian.com/access/) to register for a developer key.
